@@ -42,7 +42,7 @@
 ---
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=brandon-ezequiel-romero&theme=dark" />
+<img src="https://streak-stats.demolab.com?user=brann-romero&theme=dark" />
 </p>
 
 ### 🛠️ Languages & Tools I Have Placed My Hands On
