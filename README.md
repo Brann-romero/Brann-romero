@@ -81,7 +81,7 @@
   <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack f
 
 ---
 
